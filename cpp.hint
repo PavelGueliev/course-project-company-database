@@ -1,0 +1,2 @@
+#define KURSPROJECT_API __declspec(dllexport)
+#define KURSPROJECT_API __declspec(dllimport)
